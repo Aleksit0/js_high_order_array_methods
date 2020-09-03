@@ -17,8 +17,6 @@ cars = [
   }
 ];
 
-const nums = [12, 35, 99, 65, 34, 78, 72];
-
 cars.forEach(function(car) { //? this fn can take 3 parameters (iterator, index, whole array)
   console.log(car);
 });
