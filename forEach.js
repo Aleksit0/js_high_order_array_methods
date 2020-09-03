@@ -19,7 +19,7 @@ cars = [
 
 cars.forEach(function(car) { //? this fn can take 3 parameters (iterator, index, whole array)
   console.log(car);
-});
+});                     //? this is much cleaner
 
 /*
   cars.forEach(function(car) {
